@@ -38,10 +38,9 @@ The program will:
 
 ## Project Structure
 ai-voice-demo
-│
-├── main.py
-├── README.md
-└── .gitignore
+  ── main.py
+  ── README.md
+  ── .gitignore
 
 
 ## Security Note
